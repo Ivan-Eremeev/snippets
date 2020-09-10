@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+margin-left: auto;
+margin-right: auto;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ma</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css, source.scss, source.css</scope>
+</snippet>

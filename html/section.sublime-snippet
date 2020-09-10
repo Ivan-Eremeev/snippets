@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 -->
+<section class="$1">
+	<${2:h1} class="$1_title">$3<${2:/h1}>
+	$0
+</section>
+<!-- /$1 -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sec</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
